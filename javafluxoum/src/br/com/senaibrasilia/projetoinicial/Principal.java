@@ -2,6 +2,10 @@ package br.com.senaibrasilia.projetoinicial;
 
 public class Principal {
 
+	//Jframe é um formulário
+	//              componete
+	//              janela
+	//              container
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
